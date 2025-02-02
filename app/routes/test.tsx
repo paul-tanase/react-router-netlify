@@ -14,7 +14,7 @@ export function loader() {
 export default function Test() {
   return (
   <>
-    <p>Test page...</p>
+    <p>Test page ...</p>
   </>
   );
 }
